@@ -1,4 +1,4 @@
-import lab2.ex1_prac as bmi
+import lab2.bmi_prac as bmi
 
 def test_bmi_normal_weight():
     input_weight = 51
